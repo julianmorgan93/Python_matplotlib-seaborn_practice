@@ -3,6 +3,8 @@
 Welcome to this repository! 🚀  
 This project uses a **sample GDP (Nominal) per Capita dataset** to practice data exploration and visualisation with **Python**, focusing on **Matplotlib** and **Seaborn**.  
 
+<img width="728" height="389" alt="image" src="https://github.com/user-attachments/assets/50f66e4b-a284-4715-8a83-62d63043f5f6" />
+
 ---
 
 ## 📂 Repository Contents  
