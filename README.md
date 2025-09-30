@@ -11,7 +11,7 @@ This project uses a **sample GDP (Nominal) per Capita dataset** to practice data
   - Explore GDP (Nominal) per Capita data  
   - Practice visualisations with **Matplotlib** 🎨  
   - Create beautiful plots with **Seaborn** 📊  
--**`GDP (nominal) per Capita.xlsx`**
+- **`GDP (nominal) per Capita.xlsx`**
 ---
 
 ## 🛠️ Tools & Libraries  
